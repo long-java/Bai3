@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/news"
+        android:title="Tin tức"
+        android:icon="@drawable/news"
+        />
+    <item
+        android:id="@+id/delivery"
+        android:title="Đặt hàng"
+        android:icon="@drawable/delivery"
+        />
+    <item
+        android:id="@+id/store"
+        android:title="Google Map"
+        android:icon="@drawable/store"
+        />
+    <item
+        android:id="@+id/account"
+        android:title="Tài khoản"
+        android:icon="@drawable/person"
+        />
+</menu>
